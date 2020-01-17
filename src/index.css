@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+#Createbtn{
+  float: right;
+  margin-right: 10%;
+  width: 150px
+}
+#Detailsbtn {
+  float: right;
+  margin-right: 5px
+}
